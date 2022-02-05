@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.52">
+<testcase classname="Withdraw cash from account" name="Withdraw cash from account in credit" time="0.137">
+<system-out><![CDATA[Given I have a balance of $100 in my account................................passed
+When I request $20..........................................................passed
+Then $20 should be dispensed................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
